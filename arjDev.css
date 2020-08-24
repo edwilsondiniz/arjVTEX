@@ -1,0 +1,17 @@
+.testeira {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1px 0;
+    color: #4db1ef;
+}
+
+.testeira li {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    vertical-align: top;
+}
+
+.obs-testeira {
+    font-size: 10px;
+}
